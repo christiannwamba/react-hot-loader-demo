@@ -1,0 +1,1 @@
+This is a simple application that implements the `react-hot-loader` plugin and demonstrates how it can be used to preserve the app's state during live-reloads.
